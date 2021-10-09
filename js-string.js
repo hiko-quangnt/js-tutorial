@@ -16,10 +16,11 @@ console.log(text.length)
 // .slice
 console.log(text.slice(0, 5))
 console.log(text.slice(6, 16))
-// console.log(text.slice(-5, -1)) //
+console.log(text.slice(-4))
+console.log(text.slice(-8, -5))
 
 // .substring
-console.log(text.substring(0, 5))
+// console.log(text.substring(0, 5))
 
 
 // .replace

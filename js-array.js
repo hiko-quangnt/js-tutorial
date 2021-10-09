@@ -83,3 +83,10 @@ console.log(students)
 console.log(students.reverse())
 
 
+
+// slice(param1, param 2)
+let demo = ['human 1', 'human 2', 'human 3', 'human 4']
+// let demo2 = demo.slice(1)
+let demo2 = demo.slice(1, 3)
+console.log(demo)
+console.log(demo2)
